@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-9gonvt.juragan89c.site/sitemap.xml
